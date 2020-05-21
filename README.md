@@ -14,5 +14,5 @@ Get Textpad at https://www.textpad.com/download/index.html and install it using 
 * in Textpad menus: configure/New Document class then :
 * choose a class name Warframe for example then click next
 * choose a file extension you'll use for your warframe files and add it. \*.wf for wf files but you can choose your own extension. Click next.
-* check enable syntax highlighting and select warframe.syn in the drop down list.
+* check enable syntax highlighting and select warframe.syn in the drop down list. Click next.
 * click finish
