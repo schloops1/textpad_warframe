@@ -10,6 +10,7 @@ It also allows easy inserting [] surrounded warframe snippets for easy communica
 ### Textpad
 Get Textpad at https://www.textpad.com/download/index.html and install it using the installer.
 ### Textpad Warframe
+* get all syn and tcl files at https://github.com/schloops1/textpad_warframe/releases/tag/v0.5-alpha
 * copy all syn and tcl files into Textpad's sample directory
 * in Textpad menus: configure/New Document class then :
 * choose a class name Warframe for example then click next
