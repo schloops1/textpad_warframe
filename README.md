@@ -12,7 +12,7 @@ Get Textpad at https://www.textpad.com/download/index.html and install it using 
 ### Textpad Warframe
 * copy all syn and tcl files into Textpad's sample directory
 * in Textpad menus: configure/New Document class then :
-** choose a class name Warframe for example then click next
-** choose a file extension you'll use for your warframe files and add it. \*.wf for wf files but you can choose your own extension. Click next.
-** check enable syntax highlighting and select warframe.syn in the drop down list.
-** click finish
+* choose a class name Warframe for example then click next
+* choose a file extension you'll use for your warframe files and add it. \*.wf for wf files but you can choose your own extension. Click next.
+* check enable syntax highlighting and select warframe.syn in the drop down list.
+* click finish
