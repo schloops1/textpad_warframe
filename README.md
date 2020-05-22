@@ -2,7 +2,7 @@
 Warframe clip books and syntax highlighting support for Textpad.
 
 ![alt text](./doc/textpadWarframe.png "basic")
-![alt text](./doc/textpadWarframeTrade.png "trade")
+     ![alt text](./doc/textpadWarframeTrade.png "trade")
 
 ## What's the point?
 Some people create files of what they need, what they have to sell, what pieces they lack for sets and so on.
